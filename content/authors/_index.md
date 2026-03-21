@@ -1,5 +1,6 @@
+
 ---
-# To publish author profile pages, remove all the `build` and `cascade` settings below.
+avatar_filename: "authors/me.jpg"
 build:
   render: never
 cascade:
