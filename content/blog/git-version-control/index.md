@@ -5,7 +5,7 @@ draft: false
 authors:
   - admin
 image:
-  filename: "/media/git-logo.jpg"  # если есть логотип Git
+  filename: "/media/git-photo.jpg"  # если есть логотип Git
   caption: "Git — распределённая система управления версиями"
 ---
 

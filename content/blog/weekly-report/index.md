@@ -5,7 +5,7 @@ draft: false
 authors:
   - admin
 image:
-  filename: "/media/viz1.jpg"
+  filename: "/media/weekly-photo.jpg"
 ---
 
 
