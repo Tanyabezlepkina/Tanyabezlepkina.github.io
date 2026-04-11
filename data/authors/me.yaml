@@ -39,13 +39,38 @@ education:
     summary: |
       Группа НКАБД-01-25. Изучаю операционные системы, автоматизацию сборки документов и создание сайтов на Hugo.
 
-experience: []
-skills: []
+experience:
+  - role:
+    org: РУДН
+    start: 2025
+    summary: |
+      Опыт использования языков(С++,SQL,Python)
+
+skills:
+  - name: Языки
+    items:
+      - label: Python
+        level: 3
+      - label: SQL
+        level: 2
+      - label: C++
+        level: 4
+
 languages:
   - name: Русский
     level: 5
     label: Родной
   - name: Английский
-    level: 3
-    label: Чтение технической литературы
-awards: []
+    level: 4
+    label: Обучение для дальнейших целей
+
+awards:
+  - title: SQL курс
+    date: '2025'
+    awarder: SQL Academy
+  - title: Python курс
+    date: '2024'
+    awarder: Stepik
+  - title: Курсы по основам С++
+    date: '2025'
+    awarder: Яндекс Практикум
