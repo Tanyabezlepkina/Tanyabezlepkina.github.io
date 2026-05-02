@@ -25,6 +25,28 @@ links:
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/Tanyabezlepkina
+    label: GitHub
+  - icon: book
+    url: https://elibrary.ru/
+    label: eLibrary
+  - icon: graduation-cap
+    url: https://scholar.google.com/
+    label: Google Scholar
+  - icon: orcid
+    url: https://orcid.org/
+    label: ORCID
+  - icon: building
+    url: https://www.mendeley.com/
+    label: Mendeley
+  - icon: building
+    url: https://www.researchgate.net/
+    label: ResearchGate
+  - icon: building
+    url: https://www.academia.edu/
+    label: Academia.edu
+  - icon: file-alt
+    url: https://arxiv.org/
+    label: arXiv
 
 interests:
   - Операционные системы Linux
@@ -74,19 +96,3 @@ awards:
   - title: Курсы по основам С++
     date: '2025'
     awarder: Яндекс Практикум
-links:
-  - icon: at-symbol
-    url: mailto:1032253539@rudn.ru
-    label: E-mail Me
-  - icon: brands/github
-    url: https://github.com/Tanyabezlepkina
-    label: GitHub
-  - icon: book
-    url: https://elibrary.ru/
-    label: eLibrary
-  - icon: graduation-cap
-    url: https://scholar.google.com/
-    label: Google Scholar
-  - icon: orcid
-    url: https://orcid.org/
-    label: ORCID
