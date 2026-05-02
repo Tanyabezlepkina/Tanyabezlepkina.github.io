@@ -128,4 +128,15 @@ sections:
         # Card background color (CSS class)
         css_class: 'bg-primary-300 dark:bg-primary-700'
         css_style: ''
+## Научные и библиометрические ресурсы
+
+- [eLibrary](https://elibrary.ru/)
+- [Google Scholar](https://scholar.google.com/)
+- [ORCID](https://orcid.org/)
+- [Mendeley](https://www.mendeley.com/)
+- [ResearchGate](https://www.researchgate.net/)
+- [Academia.edu](https://www.academia.edu/)
+- [arXiv](https://arxiv.org/)
+- [GitHub](https://github.com/)
+
 ---
